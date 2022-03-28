@@ -2,4 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap');
 body{
     font-family:'Fredoka', sans-serif;
+    background-color: #cce7e8 !important;
+}
+.contact-img{
+    width: 100%;
+    border-radius: 50%;
+}
+.contact-img-details{
+    width: 150%;
+    border-radius: 50%;
 }
